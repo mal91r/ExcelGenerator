@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/artmalanin/course-work/ExcelGenerator/ExcelGenerator/ExcelGenerator/ExcelGenerator.csproj": {}
+  },
+  "projects": {
+    "/Users/artmalanin/course-work/ExcelGenerator/ExcelGenerator/ExcelGenerator/ExcelGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artmalanin/course-work/ExcelGenerator/ExcelGenerator/ExcelGenerator/ExcelGenerator.csproj",
+        "projectName": "ExcelGenerator",
+        "projectPath": "/Users/artmalanin/course-work/ExcelGenerator/ExcelGenerator/ExcelGenerator/ExcelGenerator.csproj",
+        "packagesPath": "/Users/artmalanin/.nuget/packages/",
+        "outputPath": "/Users/artmalanin/course-work/ExcelGenerator/ExcelGenerator/ExcelGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artmalanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
